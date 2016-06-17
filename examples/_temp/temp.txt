@@ -1,0 +1,3 @@
+/home/tzx/dev/caffe-rc3/examples/images/cat.jpg
+/home/tzx/dev/caffe-rc3/examples/images/fish-bike.jpg
+/home/tzx/dev/caffe-rc3/examples/images/cat_gray.jpg

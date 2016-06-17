@@ -1,0 +1,1 @@
+/home/tzx/dev/caffe-rc3/examples/hdf5_classification/data/test.h5

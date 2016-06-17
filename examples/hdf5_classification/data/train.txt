@@ -1,0 +1,2 @@
+/home/tzx/dev/caffe-rc3/examples/hdf5_classification/data/train.h5
+/home/tzx/dev/caffe-rc3/examples/hdf5_classification/data/train.h5
