@@ -688,3 +688,6 @@ $(DISTRIBUTE_DIR): all py | $(DISTRIBUTE_SUBDIRS)
 	cp -r python $(DISTRIBUTE_DIR)/python
 
 -include $(DEPS)
+
+gh:
+	git add -A; git commit -m "done"; git push
